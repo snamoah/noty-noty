@@ -1,7 +1,7 @@
 {
   "name": "noty-noty",
   "description": "Beautiful customizable notifications with no jQuery depencies",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Samuel Amoah <sa.am@programmer.net>",
   "dependencies": {
   },
