@@ -4,6 +4,7 @@
   "version": "0.0.3",
   "author": "Samuel Amoah <sa.am@programmer.net>",
   "dependencies": {
+    "underscore": "^1.8.3"
   },
   "keywords": [
     "notifications",
