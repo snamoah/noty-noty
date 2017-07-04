@@ -38,10 +38,10 @@ Below shows a list of options you can pass to Noty
 | Option  | Description | Example Values |
 |---------|-------------|----------|
 | type    | Sets the type of alert to show it. (default: `primary`) | `primary`, `success`, `info`, `danger` |
-| icon    | Sets an icon for the alert. You can pass it any icon classes you have configured (default: '') | `fa fa-info-circle`, `glyphicon glyphicon-envelope` |
+| icon    | Sets an icon for the alert. You can pass it any icon classes you have configured (default: "") | `fa fa-info-circle`, `glyphicon glyphicon-envelope` |
 | html    | Option to pass html content. When option is set, title and message options are not used (default: null) | `<h3>Example</h3>` |
-| title   | Sets a heading for the alert (default: '') | - |
-| message | Sets a message body (default: '') | - |
+| title   | Sets a heading for the alert (default: "") | - |
+| message | Sets a message body (default: "") | - |
 | closeBtn | Shows a close button that allows users to close alert (default: true) | - |
 | timer | Set timer delay to show alert before disappearing (default: 500) | - |
 | onShow | Set handler to run right before alert is shown | - |
